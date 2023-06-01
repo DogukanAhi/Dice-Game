@@ -1,0 +1,17 @@
+C:\Users\bf427\Desktop\c# ders\Zar Oyunu\Zar Oyunu\bin\Debug\net6.0-windows\Zar Oyunu.exe
+C:\Users\bf427\Desktop\c# ders\Zar Oyunu\Zar Oyunu\bin\Debug\net6.0-windows\Zar Oyunu.deps.json
+C:\Users\bf427\Desktop\c# ders\Zar Oyunu\Zar Oyunu\bin\Debug\net6.0-windows\Zar Oyunu.runtimeconfig.json
+C:\Users\bf427\Desktop\c# ders\Zar Oyunu\Zar Oyunu\bin\Debug\net6.0-windows\Zar Oyunu.dll
+C:\Users\bf427\Desktop\c# ders\Zar Oyunu\Zar Oyunu\bin\Debug\net6.0-windows\Zar Oyunu.pdb
+C:\Users\bf427\Desktop\c# ders\Zar Oyunu\Zar Oyunu\obj\Debug\net6.0-windows\Zar Oyunu.csproj.AssemblyReference.cache
+C:\Users\bf427\Desktop\c# ders\Zar Oyunu\Zar Oyunu\obj\Debug\net6.0-windows\Zar_Oyunu.Form1.resources
+C:\Users\bf427\Desktop\c# ders\Zar Oyunu\Zar Oyunu\obj\Debug\net6.0-windows\Zar Oyunu.csproj.GenerateResource.cache
+C:\Users\bf427\Desktop\c# ders\Zar Oyunu\Zar Oyunu\obj\Debug\net6.0-windows\Zar Oyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bf427\Desktop\c# ders\Zar Oyunu\Zar Oyunu\obj\Debug\net6.0-windows\Zar Oyunu.AssemblyInfoInputs.cache
+C:\Users\bf427\Desktop\c# ders\Zar Oyunu\Zar Oyunu\obj\Debug\net6.0-windows\Zar Oyunu.AssemblyInfo.cs
+C:\Users\bf427\Desktop\c# ders\Zar Oyunu\Zar Oyunu\obj\Debug\net6.0-windows\Zar Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\bf427\Desktop\c# ders\Zar Oyunu\Zar Oyunu\obj\Debug\net6.0-windows\Zar Oyunu.dll
+C:\Users\bf427\Desktop\c# ders\Zar Oyunu\Zar Oyunu\obj\Debug\net6.0-windows\refint\Zar Oyunu.dll
+C:\Users\bf427\Desktop\c# ders\Zar Oyunu\Zar Oyunu\obj\Debug\net6.0-windows\Zar Oyunu.pdb
+C:\Users\bf427\Desktop\c# ders\Zar Oyunu\Zar Oyunu\obj\Debug\net6.0-windows\Zar Oyunu.genruntimeconfig.cache
+C:\Users\bf427\Desktop\c# ders\Zar Oyunu\Zar Oyunu\obj\Debug\net6.0-windows\ref\Zar Oyunu.dll
